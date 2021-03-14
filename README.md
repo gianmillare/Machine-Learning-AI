@@ -4,6 +4,7 @@
 | Session  | Title | 
 | ------------------- | ------------------- |
 | Session 1: Part 1 | [The Mysticism of Machine Learning](https://github.com/gianmillare/Machine-Learning-AI/blob/main/University%20of%20California%2C%20Berkeley%20-%20AI%20Sessions/Part%201%20-%20The%20Mysticism%20of%20Machine%20Learning.ipynb) |
+| Session 1: Part 2 | [Univariate Linear Regression Sklearn](https://github.com/gianmillare/Machine-Learning-AI/blob/main/University%20of%20California%2C%20Berkeley%20-%20AI%20ML%20Sessions/Part%202%20-%20Univariate%20Linear%20Regression%20Sklearn.ipynb) |
 
 
 ### Hands-On Machine Learning with Scikit-Learn, Keras, & TensorFlow
