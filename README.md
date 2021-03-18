@@ -8,6 +8,7 @@
 | Session 1: Part 3 | [Sklearn Activity - LSD](https://github.com/gianmillare/Machine-Learning-AI/blob/main/University%20of%20California%2C%20Berkeley%20-%20AI%20ML%20Sessions/Part%203%20-%20Sklearn%20Activity%20-%20LSD.ipynb) |
 | Session 1: Part 4 | [Quantifying Regression](https://github.com/gianmillare/Machine-Learning-AI/blob/main/University%20of%20California%2C%20Berkeley%20-%20AI%20ML%20Sessions/Part%204%20-%20Quantifying%20Regression.ipynb) |
 | Session 1: Part 5 | [Sklearn Activity - Brains](https://github.com/gianmillare/Machine-Learning-AI/blob/main/University%20of%20California%2C%20Berkeley%20-%20AI%20ML%20Sessions/Part%205%20-%20Sklearn%20Activity%20-%20Brains.ipynb) |
+| Session 1: Part 6 | [Multiple Linear Regression with Sklearn](https://github.com/gianmillare/Machine-Learning-AI/blob/main/University%20of%20California%2C%20Berkeley%20-%20AI%20ML%20Sessions/Part%206%20-%20Multiple%20Linear%20Regression%20with%20Sklearn.ipynb) |
 
 
 ### Hands-On Machine Learning with Scikit-Learn, Keras, & TensorFlow
