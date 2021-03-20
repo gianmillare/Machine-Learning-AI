@@ -10,6 +10,7 @@
 | Session 1: Part 5 | [Sklearn Activity - Brains](https://github.com/gianmillare/Machine-Learning-AI/blob/main/University%20of%20California%2C%20Berkeley%20-%20AI%20ML%20Sessions/Part%205%20-%20Sklearn%20Activity%20-%20Brains.ipynb) |
 | Session 1: Part 6 | [Multiple Linear Regression with Sklearn](https://github.com/gianmillare/Machine-Learning-AI/blob/main/University%20of%20California%2C%20Berkeley%20-%20AI%20ML%20Sessions/Part%206%20-%20Multiple%20Linear%20Regression%20with%20Sklearn.ipynb) |
 | Session 1: Part 7 | [Multiple Linear Regression Activity - Beer Foam](https://github.com/gianmillare/Machine-Learning-AI/blob/main/University%20of%20California%2C%20Berkeley%20-%20AI%20ML%20Sessions/Part%207%20-%20Multiple%20Linear%20Regression%20Activity%20-%20Beer%20Foam.ipynb)|
+| Session 1: Part 8 | [Data Preprocessing](https://github.com/gianmillare/Machine-Learning-AI/blob/main/University%20of%20California%2C%20Berkeley%20-%20AI%20ML%20Sessions/Part%208%20-%20Data%20Preprocessing.ipynb) |
 
 
 ### Hands-On Machine Learning with Scikit-Learn, Keras, & TensorFlow
