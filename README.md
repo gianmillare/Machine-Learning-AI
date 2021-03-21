@@ -1,17 +1,17 @@
 # Machine-Learning-AI
 
 ### University of California, Berkeley - AI ML Sessions
-| Session  | Title | 
+| Category  | Title | 
 | ------------------- | ------------------- |
-| Session 1: Part 1 | [The Mysticism of Machine Learning](https://github.com/gianmillare/Machine-Learning-AI/blob/main/University%20of%20California%2C%20Berkeley%20-%20AI%20ML%20Sessions/Part%201%20-%20The%20Mysticism%20of%20Machine%20Learning.ipynb) |
-| Session 1: Part 2 | [Univariate Linear Regression Sklearn](https://github.com/gianmillare/Machine-Learning-AI/blob/main/University%20of%20California%2C%20Berkeley%20-%20AI%20ML%20Sessions/Part%202%20-%20Univariate%20Linear%20Regression%20Sklearn.ipynb) |
-| Session 1: Part 3 | [Sklearn Activity - LSD](https://github.com/gianmillare/Machine-Learning-AI/blob/main/University%20of%20California%2C%20Berkeley%20-%20AI%20ML%20Sessions/Part%203%20-%20Sklearn%20Activity%20-%20LSD.ipynb) |
-| Session 1: Part 4 | [Quantifying Regression](https://github.com/gianmillare/Machine-Learning-AI/blob/main/University%20of%20California%2C%20Berkeley%20-%20AI%20ML%20Sessions/Part%204%20-%20Quantifying%20Regression.ipynb) |
-| Session 1: Part 5 | [Sklearn Activity - Brains](https://github.com/gianmillare/Machine-Learning-AI/blob/main/University%20of%20California%2C%20Berkeley%20-%20AI%20ML%20Sessions/Part%205%20-%20Sklearn%20Activity%20-%20Brains.ipynb) |
-| Session 1: Part 6 | [Multiple Linear Regression with Sklearn](https://github.com/gianmillare/Machine-Learning-AI/blob/main/University%20of%20California%2C%20Berkeley%20-%20AI%20ML%20Sessions/Part%206%20-%20Multiple%20Linear%20Regression%20with%20Sklearn.ipynb) |
-| Session 1: Part 7 | [Multiple Linear Regression Activity - Beer Foam](https://github.com/gianmillare/Machine-Learning-AI/blob/main/University%20of%20California%2C%20Berkeley%20-%20AI%20ML%20Sessions/Part%207%20-%20Multiple%20Linear%20Regression%20Activity%20-%20Beer%20Foam.ipynb)|
-| Session 1: Part 8 | [Data Preprocessing](https://github.com/gianmillare/Machine-Learning-AI/blob/main/University%20of%20California%2C%20Berkeley%20-%20AI%20ML%20Sessions/Part%208%20-%20Data%20Preprocessing.ipynb) |
-| Session 1: Part 9 | [Data Preprocessing Activity - Respiratory Disease](https://github.com/gianmillare/Machine-Learning-AI/blob/main/University%20of%20California%2C%20Berkeley%20-%20AI%20ML%20Sessions/Part%209%20-%20Data%20Preprocessing%20Activity%20-%20Respiratory%20Disease.ipynb)|
+| UCB.MLAI.1 Notes | [The Mysticism of Machine Learning](https://github.com/gianmillare/Machine-Learning-AI/blob/main/University%20of%20California%2C%20Berkeley%20-%20AI%20ML%20Sessions/Part%201%20-%20The%20Mysticism%20of%20Machine%20Learning.ipynb) |
+| UCB.MLAI.2 Notes | [Univariate Linear Regression Sklearn](https://github.com/gianmillare/Machine-Learning-AI/blob/main/University%20of%20California%2C%20Berkeley%20-%20AI%20ML%20Sessions/Part%202%20-%20Univariate%20Linear%20Regression%20Sklearn.ipynb) |
+| UCB.MLAI.3 Practice | [Sklearn Activity - LSD](https://github.com/gianmillare/Machine-Learning-AI/blob/main/University%20of%20California%2C%20Berkeley%20-%20AI%20ML%20Sessions/Part%203%20-%20Sklearn%20Activity%20-%20LSD.ipynb) |
+| UCB.MLAI.4 Notes | [Quantifying Regression](https://github.com/gianmillare/Machine-Learning-AI/blob/main/University%20of%20California%2C%20Berkeley%20-%20AI%20ML%20Sessions/Part%204%20-%20Quantifying%20Regression.ipynb) |
+| UCB.MLAI.5 Practice | [Sklearn Activity - Brains](https://github.com/gianmillare/Machine-Learning-AI/blob/main/University%20of%20California%2C%20Berkeley%20-%20AI%20ML%20Sessions/Part%205%20-%20Sklearn%20Activity%20-%20Brains.ipynb) |
+| UCB.MLAI.6 Notes | [Multiple Linear Regression with Sklearn](https://github.com/gianmillare/Machine-Learning-AI/blob/main/University%20of%20California%2C%20Berkeley%20-%20AI%20ML%20Sessions/Part%206%20-%20Multiple%20Linear%20Regression%20with%20Sklearn.ipynb) |
+| UCB.MLAI.7 Practice | [Multiple Linear Regression Activity - Beer Foam](https://github.com/gianmillare/Machine-Learning-AI/blob/main/University%20of%20California%2C%20Berkeley%20-%20AI%20ML%20Sessions/Part%207%20-%20Multiple%20Linear%20Regression%20Activity%20-%20Beer%20Foam.ipynb)|
+| UCB.MLAI.8 Notes | [Data Preprocessing](https://github.com/gianmillare/Machine-Learning-AI/blob/main/University%20of%20California%2C%20Berkeley%20-%20AI%20ML%20Sessions/Part%208%20-%20Data%20Preprocessing.ipynb) |
+| UCB.MLAI.9 Practice | [Data Preprocessing Activity - Respiratory Disease](https://github.com/gianmillare/Machine-Learning-AI/blob/main/University%20of%20California%2C%20Berkeley%20-%20AI%20ML%20Sessions/Part%209%20-%20Data%20Preprocessing%20Activity%20-%20Respiratory%20Disease.ipynb)|
 
 
 ### Hands-On Machine Learning with Scikit-Learn, Keras, & TensorFlow
