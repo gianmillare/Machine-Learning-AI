@@ -16,6 +16,7 @@
 | UCB.MLAI.11 | Practice | [Voice Recognition - Activity](https://github.com/gianmillare/Machine-Learning-AI/blob/main/University%20of%20California%2C%20Berkeley%20-%20AI%20ML%20Sessions/Part%2011%20-%20Voice%20Recognition%20-%20Activity.ipynb) |
 | UCB.MLAI.12 | Notes | [Decision Trees](https://github.com/gianmillare/Machine-Learning-AI/blob/main/University%20of%20California%2C%20Berkeley%20-%20AI%20ML%20Sessions/Part%2012%20-%20Decision%20Trees.ipynb) |
 | UCB.MLAI.13 | Notes | [Random Forests](https://github.com/gianmillare/Machine-Learning-AI/blob/main/University%20of%20California%2C%20Berkeley%20-%20AI%20ML%20Sessions/Part%2013%20-%20Random%20Forests.ipynb)
+| UCB.MLAI.14 | Practice | [Trees and Forests Activity - Diabetes](https://github.com/gianmillare/Machine-Learning-AI/blob/main/University%20of%20California%2C%20Berkeley%20-%20AI%20ML%20Sessions/Part%2014%20-%20Trees%20and%20Forests%20Activity%20-%20Diabetes.ipynb) |
 
 
 ### Hands-On Machine Learning with Scikit-Learn, Keras, & TensorFlow
