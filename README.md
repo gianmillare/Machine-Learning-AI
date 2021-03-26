@@ -17,6 +17,7 @@
 | UCB.MLAI.12 | Notes | [Decision Trees](https://github.com/gianmillare/Machine-Learning-AI/blob/main/University%20of%20California%2C%20Berkeley%20-%20AI%20ML%20Sessions/Part%2012%20-%20Decision%20Trees.ipynb) |
 | UCB.MLAI.13 | Notes | [Random Forests](https://github.com/gianmillare/Machine-Learning-AI/blob/main/University%20of%20California%2C%20Berkeley%20-%20AI%20ML%20Sessions/Part%2013%20-%20Random%20Forests.ipynb)
 | UCB.MLAI.14 | Practice | [Trees and Forests Activity - Diabetes](https://github.com/gianmillare/Machine-Learning-AI/blob/main/University%20of%20California%2C%20Berkeley%20-%20AI%20ML%20Sessions/Part%2014%20-%20Trees%20and%20Forests%20Activity%20-%20Diabetes.ipynb) |
+| UCB.MLAI.15 | Notes | [K Nearest Neighbors](https://github.com/gianmillare/Machine-Learning-AI/blob/main/University%20of%20California%2C%20Berkeley%20-%20AI%20ML%20Sessions/Part%2015%20-%20K%20Nearest%20Neighbors.ipynb) |
 
 
 ### Hands-On Machine Learning with Scikit-Learn, Keras, & TensorFlow
@@ -24,4 +25,3 @@
 | ------------------- | ------------------- |
 | Chapter 1 | [The Machine Learning Landscape](https://github.com/gianmillare/Machine-Learning-AI/blob/main/Hands%20On%20ML%20with%20Scikit-Learn%2C%20Keras%2C%20%26%20TensorFlow/Chapter%201%20-%20The%20Machine%20Learning%20Landscape.ipynb) |
 | Chapter 2 | [ML Project: Predicting Housing Prices](https://github.com/gianmillare/Machine-Learning-AI/blob/main/Hands%20On%20ML%20with%20Scikit-Learn%2C%20Keras%2C%20%26%20TensorFlow/Chapter%202%20-%20End%20to%20End%20Machine%20Learning%20Project.ipynb) |
-
