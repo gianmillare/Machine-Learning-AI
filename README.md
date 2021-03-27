@@ -18,6 +18,7 @@
 | UCB.MLAI.13 | Notes | [Random Forests](https://github.com/gianmillare/Machine-Learning-AI/blob/main/University%20of%20California%2C%20Berkeley%20-%20AI%20ML%20Sessions/Part%2013%20-%20Random%20Forests.ipynb)
 | UCB.MLAI.14 | Practice | [Trees and Forests Activity - Diabetes](https://github.com/gianmillare/Machine-Learning-AI/blob/main/University%20of%20California%2C%20Berkeley%20-%20AI%20ML%20Sessions/Part%2014%20-%20Trees%20and%20Forests%20Activity%20-%20Diabetes.ipynb) |
 | UCB.MLAI.15 | Notes | [K Nearest Neighbors](https://github.com/gianmillare/Machine-Learning-AI/blob/main/University%20of%20California%2C%20Berkeley%20-%20AI%20ML%20Sessions/Part%2015%20-%20K%20Nearest%20Neighbors.ipynb) |
+| UCB.MLAI.16 | Practice [KNN Activity - Diabetes](https://github.com/gianmillare/Machine-Learning-AI/blob/main/University%20of%20California%2C%20Berkeley%20-%20AI%20ML%20Sessions/Part%2016%20-%20KNN%20Activity%20-%20Diabetes.ipynb) |
 
 
 ### Hands-On Machine Learning with Scikit-Learn, Keras, & TensorFlow
