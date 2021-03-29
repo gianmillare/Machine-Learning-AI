@@ -25,6 +25,7 @@
 | UCB.MLAI.20 | Practice | [GridSearch HyperParameter Tuning Activity - Diabetes](https://github.com/gianmillare/Machine-Learning-AI/blob/main/University%20of%20California%2C%20Berkeley%20-%20AI%20ML%20Sessions/Part%2020%20-%20GridSearch%20HyperParameter%20Tuning%20Activity%20-%20Diabetes.ipynb) |
 | UCB.MLAI.21 | Notes | [Neural Networks and Deep Learning](https://github.com/gianmillare/Machine-Learning-AI/blob/main/University%20of%20California%2C%20Berkeley%20-%20AI%20ML%20Sessions/Part%2021%20-%20Neural%20Networks%20and%20Deep%20Learning.ipynb) |
 | UCB.MLAI.22 | Notes | [Introduction to Keras and TensorFlow](https://github.com/gianmillare/Machine-Learning-AI/blob/main/University%20of%20California%2C%20Berkeley%20-%20AI%20ML%20Sessions/Part%2022%20-%20Introduction%20to%20Keras%20and%20TensorFlow.ipynb) |
+| UCB.MLAI.23 | Notes | [One-Hot Encoding](https://github.com/gianmillare/Machine-Learning-AI/blob/main/University%20of%20California%2C%20Berkeley%20-%20AI%20ML%20Sessions/Part%2023%20-%20One-Hot%20Encoding.ipynb) |
 
 ### Hands-On Machine Learning with Scikit-Learn, Keras, & TensorFlow
 | Chapter  | Title | 
