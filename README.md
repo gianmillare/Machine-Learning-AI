@@ -23,7 +23,7 @@
 | UCB.MLAI.18 | Practice | [SVM Activity - Diabetes](https://github.com/gianmillare/Machine-Learning-AI/blob/main/University%20of%20California%2C%20Berkeley%20-%20AI%20ML%20Sessions/Part%2018%20-%20SVM%20Activity%20-%20Diabetes.ipynb) |
 | UCB.MLAI.19 | Notes | [GridSearch - HyperParameter Tuning](https://github.com/gianmillare/Machine-Learning-AI/blob/main/University%20of%20California%2C%20Berkeley%20-%20AI%20ML%20Sessions/Part%2019%20-%20GridSearch%20-%20HyperParameter%20Tuning.ipynb) |
 | UCB.MLAI.20 | Practice | [GridSearch HyperParameter Tuning Activity - Diabetes](https://github.com/gianmillare/Machine-Learning-AI/blob/main/University%20of%20California%2C%20Berkeley%20-%20AI%20ML%20Sessions/Part%2020%20-%20GridSearch%20HyperParameter%20Tuning%20Activity%20-%20Diabetes.ipynb) |
-
+| UCB.MLAI.21 | Notes | [Neural Networks and Deep Learning](https://github.com/gianmillare/Machine-Learning-AI/blob/main/University%20of%20California%2C%20Berkeley%20-%20AI%20ML%20Sessions/Part%2021%20-%20Neural%20Networks%20and%20Deep%20Learning.ipynb) |
 
 ### Hands-On Machine Learning with Scikit-Learn, Keras, & TensorFlow
 | Chapter  | Title | 
