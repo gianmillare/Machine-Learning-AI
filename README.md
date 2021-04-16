@@ -28,7 +28,8 @@
 | UCB.MLAI.23 | Notes | [One-Hot Encoding](https://github.com/gianmillare/Machine-Learning-AI/blob/main/University%20of%20California%2C%20Berkeley%20-%20AI%20ML%20Sessions/Part%2023%20-%20One-Hot%20Encoding.ipynb) |
 | UCB.MLAI.24 | Notes | [Neural Networks 1](https://github.com/gianmillare/Machine-Learning-AI/blob/main/University%20of%20California%2C%20Berkeley%20-%20AI%20ML%20Sessions/Part%2024%20-%20First%20Neural%20Network.ipynb) |
 | UCB.MLAI.25 | Notes | [Deep Learning](https://github.com/gianmillare/Machine-Learning-AI/blob/main/University%20of%20California%2C%20Berkeley%20-%20AI%20ML%20Sessions/Part%2025%20-%20Deep%20Learning.ipynb) |
-| UCB.MLAI.26 | Notes | [Deep Learning Activity - Moons](https://github.com/gianmillare/Machine-Learning-AI/blob/main/University%20of%20California%2C%20Berkeley%20-%20AI%20ML%20Sessions/Part%2026%20-%20Deep%20Learning%20Activity%20-%20Moons.ipynb) |
+| UCB.MLAI.26 | Practice | [Deep Learning Activity - Moons](https://github.com/gianmillare/Machine-Learning-AI/blob/main/University%20of%20California%2C%20Berkeley%20-%20AI%20ML%20Sessions/Part%2026%20-%20Deep%20Learning%20Activity%20-%20Moons.ipynb) |
+| UCB.MLAI.27 | Practice | [Deep Learning Activity - Voice Recognition](https://github.com/gianmillare/Machine-Learning-AI/blob/main/University%20of%20California%2C%20Berkeley%20-%20AI%20ML%20Sessions/Part%2027%20-%20Voice%20Recognition%20-%20Activity.ipynb) |
 
 ### Hands-On Machine Learning with Scikit-Learn, Keras, & TensorFlow
 | Chapter  | Title | 
