@@ -23,19 +23,13 @@
 | UCB.MLAI.18 | Practice | [SVM Activity - Diabetes](https://nbviewer.jupyter.org/github/gianmillare/Machine-Learning-AI/blob/main/University%20of%20California%2C%20Berkeley%20-%20AI%20ML%20Sessions/Part%2018%20-%20SVM%20Activity%20-%20Diabetes.ipynb) |
 | UCB.MLAI.19 | Notes | [GridSearch - HyperParameter Tuning](https://nbviewer.jupyter.org/github/gianmillare/Machine-Learning-AI/blob/main/University%20of%20California%2C%20Berkeley%20-%20AI%20ML%20Sessions/Part%2019%20-%20GridSearch%20-%20HyperParameter%20Tuning.ipynb) |
 | UCB.MLAI.20 | Practice | [GridSearch HyperParameter Tuning Activity - Diabetes](https://nbviewer.jupyter.org/github/gianmillare/Machine-Learning-AI/blob/main/University%20of%20California%2C%20Berkeley%20-%20AI%20ML%20Sessions/Part%2020%20-%20GridSearch%20HyperParameter%20Tuning%20Activity%20-%20Diabetes.ipynb) |
-
-
 | UCB.MLAI.21 | Notes | [Neural Networks and Deep Learning](https://nbviewer.jupyter.org/github/gianmillare/Machine-Learning-AI/blob/main/University%20of%20California%2C%20Berkeley%20-%20AI%20ML%20Sessions/Part%2021%20-%20Neural%20Networks%20and%20Deep%20Learning.ipynb) |
 | UCB.MLAI.22 | Notes | [Introduction to Keras and TensorFlow](https://nbviewer.jupyter.org/github/gianmillare/Machine-Learning-AI/blob/main/University%20of%20California%2C%20Berkeley%20-%20AI%20ML%20Sessions/Part%2022%20-%20Introduction%20to%20Keras%20and%20TensorFlow.ipynb) |
 | UCB.MLAI.23 | Notes | [One-Hot Encoding](https://nbviewer.jupyter.org/github/gianmillare/Machine-Learning-AI/blob/main/University%20of%20California%2C%20Berkeley%20-%20AI%20ML%20Sessions/Part%2023%20-%20One-Hot%20Encoding.ipynb) |
 | UCB.MLAI.24 | Notes | [Neural Networks 1](https://nbviewer.jupyter.org/github/gianmillare/Machine-Learning-AI/blob/main/University%20of%20California%2C%20Berkeley%20-%20AI%20ML%20Sessions/Part%2024%20-%20First%20Neural%20Network.ipynb) |
 | UCB.MLAI.25 | Notes | [Deep Learning](https://nbviewer.jupyter.org/github/gianmillare/Machine-Learning-AI/blob/main/University%20of%20California%2C%20Berkeley%20-%20AI%20ML%20Sessions/Part%2025%20-%20Deep%20Learning.ipynb) |
-
-
-
-| UCB.MLAI.26 | Practice | [Deep Learning Activity - Moons](https://github.com/gianmillare/Machine-Learning-AI/blob/main/University%20of%20California%2C%20Berkeley%20-%20AI%20ML%20Sessions/Part%2026%20-%20Deep%20Learning%20Activity%20-%20Moons.ipynb) |
-| UCB.MLAI.27 | Practice | [Deep Learning Activity - Voice Recognition](https://github.com/gianmillare/Machine-Learning-AI/blob/main/University%20of%20California%2C%20Berkeley%20-%20AI%20ML%20Sessions/Part%2027%20-%20Voice%20Recognition%20-%20Activity.ipynb) |
-
+| UCB.MLAI.26 | Practice | [Deep Learning Activity - Moons](https://nbviewer.jupyter.org/github/gianmillare/Machine-Learning-AI/blob/main/University%20of%20California%2C%20Berkeley%20-%20AI%20ML%20Sessions/Part%2026%20-%20Deep%20Learning%20Activity%20-%20Moons.ipynb) |
+| UCB.MLAI.27 | Practice | [Deep Learning Activity - Voice Recognition](https://nbviewer.jupyter.org/github/gianmillare/Machine-Learning-AI/blob/main/University%20of%20California%2C%20Berkeley%20-%20AI%20ML%20Sessions/Part%2027%20-%20Voice%20Recognition%20-%20Activity.ipynb) |
 
 ### Hands-On Machine Learning with Scikit-Learn, Keras, & TensorFlow
 | Chapter  | Title | 
