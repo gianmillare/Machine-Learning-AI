@@ -18,8 +18,6 @@
 | UCB.MLAI.13 | Notes | [Random Forests](https://nbviewer.jupyter.org/github/gianmillare/Machine-Learning-AI/blob/main/University%20of%20California%2C%20Berkeley%20-%20AI%20ML%20Sessions/Part%2013%20-%20Random%20Forests.ipynb)
 | UCB.MLAI.14 | Practice | [Trees and Forests Activity - Diabetes](https://nbviewer.jupyter.org/github/gianmillare/Machine-Learning-AI/blob/main/University%20of%20California%2C%20Berkeley%20-%20AI%20ML%20Sessions/Part%2014%20-%20Trees%20and%20Forests%20Activity%20-%20Diabetes.ipynb) |
 | UCB.MLAI.15 | Notes | [K Nearest Neighbors](https://nbviewer.jupyter.org/github/gianmillare/Machine-Learning-AI/blob/main/University%20of%20California%2C%20Berkeley%20-%20AI%20ML%20Sessions/Part%2015%20-%20K%20Nearest%20Neighbors.ipynb) |
-
-
 | UCB.MLAI.16 | Practice | [KNN Activity - Diabetes](https://nbviewer.jupyter.org/github/gianmillare/Machine-Learning-AI/blob/main/University%20of%20California%2C%20Berkeley%20-%20AI%20ML%20Sessions/Part%2016%20-%20KNN%20Activity%20-%20Diabetes.ipynb) |
 | UCB.MLAI.17 | Notes | [Support Vector Machines SVM](https://nbviewer.jupyter.org/github/gianmillare/Machine-Learning-AI/blob/main/University%20of%20California%2C%20Berkeley%20-%20AI%20ML%20Sessions/Part%2017%20-%20Support%20Vector%20Machines%20SVM.ipynb) |
 | UCB.MLAI.18 | Practice | [SVM Activity - Diabetes](https://nbviewer.jupyter.org/github/gianmillare/Machine-Learning-AI/blob/main/University%20of%20California%2C%20Berkeley%20-%20AI%20ML%20Sessions/Part%2018%20-%20SVM%20Activity%20-%20Diabetes.ipynb) |
