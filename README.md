@@ -31,7 +31,8 @@
 | UCB.MLAI.26 | Practice | [Deep Learning Activity - Moons](https://nbviewer.jupyter.org/github/gianmillare/Machine-Learning-AI/blob/main/University%20of%20California%2C%20Berkeley%20-%20AI%20ML%20Sessions/Part%2026%20-%20Deep%20Learning%20Activity%20-%20Moons.ipynb) |
 | UCB.MLAI.27 | Practice | [Deep Learning Activity - Voice Recognition](https://nbviewer.jupyter.org/github/gianmillare/Machine-Learning-AI/blob/main/University%20of%20California%2C%20Berkeley%20-%20AI%20ML%20Sessions/Part%2027%20-%20Voice%20Recognition%20-%20Activity.ipynb) |
 | UCB.MLAI.28 | Notes | [Saving Models](https://nbviewer.jupyter.org/github/gianmillare/Machine-Learning-AI/blob/main/University%20of%20California%2C%20Berkeley%20-%20AI%20ML%20Sessions/Part%2028%20-%20Saving%20Models.ipynb) |
-| UCB.MLAI. 29 | Practice | [Deep Learning Model - Smartphone Activity Detector](https://nbviewer.jupyter.org/github/gianmillare/Machine-Learning-AI/blob/main/University%20of%20California%2C%20Berkeley%20-%20AI%20ML%20Sessions/Part%2029%20-%20Deep%20Learning%20Models%20Activity%20-%20Smartphone%20Activity%20Detector.ipynb) |
+| UCB.MLAI.29 | Practice | [Deep Learning Model - Smartphone Activity Detector](https://nbviewer.jupyter.org/github/gianmillare/Machine-Learning-AI/blob/main/University%20of%20California%2C%20Berkeley%20-%20AI%20ML%20Sessions/Part%2029%20-%20Deep%20Learning%20Models%20Activity%20-%20Smartphone%20Activity%20Detector.ipynb) |
+| UCB.MLAI.30 | Notes | [Introduction to Kmeans](https://github.com/gianmillare/Machine-Learning-AI/blob/main/University%20of%20California%2C%20Berkeley%20-%20AI%20ML%20Sessions/Part%2030%20-%20Kmeans.ipynb) |
 
 ### Hands-On Machine Learning with Scikit-Learn, Keras, & TensorFlow
 | Chapter  | Title | 
