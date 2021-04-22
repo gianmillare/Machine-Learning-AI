@@ -33,7 +33,8 @@
 | UCB.MLAI.28 | Notes | [Saving Models](https://nbviewer.jupyter.org/github/gianmillare/Machine-Learning-AI/blob/main/University%20of%20California%2C%20Berkeley%20-%20AI%20ML%20Sessions/Part%2028%20-%20Saving%20Models.ipynb) |
 | UCB.MLAI.29 | Practice | [Deep Learning Model - Smartphone Activity Detector](https://nbviewer.jupyter.org/github/gianmillare/Machine-Learning-AI/blob/main/University%20of%20California%2C%20Berkeley%20-%20AI%20ML%20Sessions/Part%2029%20-%20Deep%20Learning%20Models%20Activity%20-%20Smartphone%20Activity%20Detector.ipynb) |
 | UCB.MLAI.30 | Notes | [Introduction to KMeans](https://nbviewer.jupyter.org/github/gianmillare/Machine-Learning-AI/blob/main/University%20of%20California%2C%20Berkeley%20-%20AI%20ML%20Sessions/Part%2030%20-%20Kmeans.ipynb) |
-| UCB.MLAI.31 | Practice | [KMeans Activity - More Clusters](https://nbviewer.jupyter.org/github/gianmillare/Machine-Learning-AI/blob/main/University%20of%20California%2C%20Berkeley%20-%20AI%20ML%20Sessions/Part%2031%20-%20Kmeans%20Activity%20-%20More%20Clusters.ipynb)
+| UCB.MLAI.31 | Practice | [KMeans Activity - More Clusters](https://nbviewer.jupyter.org/github/gianmillare/Machine-Learning-AI/blob/main/University%20of%20California%2C%20Berkeley%20-%20AI%20ML%20Sessions/Part%2031%20-%20Kmeans%20Activity%20-%20More%20Clusters.ipynb) |
+| UCB.MLAI.32 | Notes | [MNIST - Digit Image Library](https://nbviewer.jupyter.org/github/gianmillare/Machine-Learning-AI/blob/main/University%20of%20California%2C%20Berkeley%20-%20AI%20ML%20Sessions/Part%2032%20-%20MNIST.ipynb) |
 
 ### Hands-On Machine Learning with Scikit-Learn, Keras, & TensorFlow
 | Chapter  | Title | 
