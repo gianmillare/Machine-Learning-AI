@@ -1,5 +1,6 @@
 # An app that uses the MNIST Machine Learning Library
 # Objective: Have the app output a number that is displayed on a submitted image
+# Reference UCB.MLAI.32 to understand the ML portion of the app
 
 # Step 1: Import Dependencies
 import os
@@ -7,14 +8,15 @@ from flask import Flask, request, jsonify
 
 import keras # dependencies for ML
 from keras.preprocessing import image
-from keras import backend as K
+import tensorflow.python.keras.backend as K
+from keras.models import load_model
 
 # Step 2: create the Flask app
 app = Flask(__name__)
-app.config['UPLOAD_FOLDER'] = 'uploads'
+app.config['UPLOAD_FOLDER'] = 'images'
 
 # Step 3: create the model by importing a pre-made MNIST model from keras
-model = keras.models.load_model("mnist_trained.h5")
+model = load_model("models/mnist_model.h5")
 graph = K.get_session().graph # in tensorflow, all computation must exist in a graph. So we import a graph session from the backend
 
 # Step 4: create a function that prepares the image. This should mimic the data preprocessing in ucbmlai32
@@ -59,6 +61,8 @@ def upload_file():
 
         # Convers the 2D image into an array of pixels. This is where the prepare_image function is used
         image_array = prepare_image(im)
+
+        # ----------------- THIS IS WHERE THE MACHINE LEARNING PART BEGINS ---------------
 
         # Get the tensorflow default graph from line 18 to make predictions
         global graph
