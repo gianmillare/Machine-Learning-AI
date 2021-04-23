@@ -38,10 +38,10 @@ def prepare_image(img):
 # Step 5: Create the app route using the GET and POST methods
 @app.route('/', methods=['GET', 'POST'])
 
-# Step 6: the dirst function will ask the user to upload an image, if not pulling the home screen
+# Step 6: the function will ask the user to upload an image, if not pulling the home screen
 def upload_file():
 
-    # set data success equal to false. The JSON associated with this should return True if the model predicts correctly
+    # Create a dictionary and set success equal to false. The JSON associated with this should return True if the model predicts correctly (at the end)
     data = {'success': False}
 
     # if the method is POST, then we pull that file from an internal folder
@@ -63,3 +63,33 @@ def upload_file():
         # Get the tensorflow default graph from line 18 to make predictions
         global graph
         with graph.as_default():
+
+            # make predictions using the model
+            predicted_digit = model.predict_classes(image_array)[0] # we return [0] because the prediction is usually returned as an array '[5]'
+            data['prediction'] = str(predicted_digit)
+
+            # change data success to be true to indicate that the image was processed through the model
+            data['success'] = True
+        
+        # return data as a JSON Object
+        return jsonify(data)
+    
+    # if the request was GET, return the HTML page
+    return '''
+    <!doctype html>
+
+    <title>Upload new File</title>
+
+    <h1>Upload new File</h1>
+
+    <form method=post enctype=multipart/form-data>
+
+      <p><input type=file name=file>
+         <input type=submit value=Upload>
+
+    </form>
+    '''
+
+# Boiler Plate code
+if __name__ == "__main__":
+    app.run(debug=True)
