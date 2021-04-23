@@ -33,3 +33,33 @@ def prepare_image(img):
     image_array = img.flatten().reshape(-1, 28 * 28)
 
     # return the processed image array (because the output will be passed into another function)
+    return image_array
+
+# Step 5: Create the app route using the GET and POST methods
+@app.route('/', methods=['GET', 'POST'])
+
+# Step 6: the dirst function will ask the user to upload an image, if not pulling the home screen
+def upload_file():
+
+    # set data success equal to false. The JSON associated with this should return True if the model predicts correctly
+    data = {'success': False}
+
+    # if the method is POST, then we pull that file from an internal folder
+    if request.files.get('file'):
+        # read the file
+        file = request.files['file']
+        filename = file.filename
+        # create the path to the uploads folder
+        filepath = os.path.join(app.config['UPLOAD_FOLDER'], filename)
+        # save the uploaded file to the UPLOAD_FOLDER
+        file.save(filepath)
+
+        # Load the saved image using keras and resize it to the MNIST requirement of 28 * 28 pixels
+        im = image.load_img(filepath, target_size=(28, 28), grayscale=True)
+
+        # Convers the 2D image into an array of pixels. This is where the prepare_image function is used
+        image_array = prepare_image(im)
+
+        # Get the tensorflow default graph from line 18 to make predictions
+        global graph
+        with graph.as_default():
