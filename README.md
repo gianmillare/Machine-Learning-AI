@@ -37,6 +37,7 @@
 | UCB.MLAI.32 | Notes | [MNIST - Digit Image Library](https://nbviewer.jupyter.org/github/gianmillare/Machine-Learning-AI/blob/main/University%20of%20California%2C%20Berkeley%20-%20AI%20ML%20Sessions/Part%2032%20-%20MNIST.ipynb) |
 | UCB.MLAI.33 | Practice | [MNIST - Digit Image Reader App](https://github.com/gianmillare/Machine-Learning-AI/blob/main/University%20of%20California%2C%20Berkeley%20-%20AI%20ML%20Sessions/Part%2033%20-%20MNIST%20Recognition%20App.py) |
 | UCB.MLAI.34 | Notes | [Convolutional Neural Networks](https://nbviewer.jupyter.org/github/gianmillare/Machine-Learning-AI/blob/main/University%20of%20California%2C%20Berkeley%20-%20AI%20ML%20Sessions/Part%2034%20-%20Convolutional%20Neural%20Network%20CNN.ipynb) |
+| UCB.MLAI.35 | Practice | [Convolutional Neural Networks Activity - Xception](https://github.com/gianmillare/Machine-Learning-AI/blob/main/University%20of%20California%2C%20Berkeley%20-%20AI%20ML%20Sessions/Part%2035%20-%20Convolutional%20Neural%20Networks%20Activity%20-%20Xception.ipynb) |
 
 ### Hands-On Machine Learning with Scikit-Learn, Keras, & TensorFlow
 | Chapter  | Title | 
