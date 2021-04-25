@@ -43,6 +43,7 @@
 | Session | Category  | Title | 
 | ------------------- | ------------------- | ------------------- |
 | AI4E.1 | Notes | [Introduction to Artificial Intelligence](https://nbviewer.jupyter.org/github/gianmillare/Machine-Learning-AI/blob/main/AI%20for%20Everyone/Part%201%20-%20Introduction%20to%20AI.ipynb) |
+| AI4E.2 | Notes | [Building an Artificial Intelligence Project](https://github.com/gianmillare/Machine-Learning-AI/blob/main/AI%20for%20Everyone/Part%202%20-%20Building%20AI%20Projects.ipynb) |
 
 ### Hands-On Machine Learning with Scikit-Learn, Keras, & TensorFlow
 | Chapter  | Title | 
