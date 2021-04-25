@@ -42,7 +42,7 @@
 ### AI for Everyone by DeepLearning.AI & Taught by Andrew Ng
 | Session | Category  | Title | 
 | ------------------- | ------------------- | ------------------- |
-| AI4E.1 | Notes | [Introduction to Artificial Intelligence](https://github.com/gianmillare/Machine-Learning-AI/blob/main/AI%20for%20Everyone/Part%201%20-%20Introduction%20to%20AI.ipynb) |
+| AI4E.1 | Notes | [Introduction to Artificial Intelligence](https://nbviewer.jupyter.org/github/gianmillare/Machine-Learning-AI/blob/main/AI%20for%20Everyone/Part%201%20-%20Introduction%20to%20AI.ipynb) |
 
 ### Hands-On Machine Learning with Scikit-Learn, Keras, & TensorFlow
 | Chapter  | Title | 
