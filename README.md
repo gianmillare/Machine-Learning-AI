@@ -39,6 +39,8 @@
 | UCB.MLAI.34 | Notes | [Convolutional Neural Networks](https://nbviewer.jupyter.org/github/gianmillare/Machine-Learning-AI/blob/main/University%20of%20California%2C%20Berkeley%20-%20AI%20ML%20Sessions/Part%2034%20-%20Convolutional%20Neural%20Network%20CNN.ipynb) |
 | UCB.MLAI.35 | Practice | [Convolutional Neural Networks Activity - Xception](https://github.com/gianmillare/Machine-Learning-AI/blob/main/University%20of%20California%2C%20Berkeley%20-%20AI%20ML%20Sessions/Part%2035%20-%20Convolutional%20Neural%20Networks%20Activity%20-%20Xception.ipynb) |
 
+<hr>
+
 ### AI for Everyone by DeepLearning.AI & Taught by Andrew Ng
 | Session | Category  | Title | 
 | ------------------- | ------------------- | ------------------- |
@@ -47,6 +49,15 @@
 | AI4E.3 | Notes | [Building AI in a Company](https://github.com/gianmillare/Machine-Learning-AI/blob/main/AI%20for%20Everyone/Part%203%20-%20Building%20AI%20in%20a%20Company.ipynb) |
 | AI4E.4 | Notes | [Types of Machine Learning Techniques](https://github.com/gianmillare/Machine-Learning-AI/blob/main/AI%20for%20Everyone/Part%204%20-%20Types%20of%20Machine%20Learning.ipynb) |
 | AI4E.5 | Notes | [AI and Society](https://github.com/gianmillare/Machine-Learning-AI/blob/main/AI%20for%20Everyone/Part%205%20-%20AI%20and%20Society.ipynb) |
+
+<hr>
+
+### Guided Projects
+| Session | Category  | Title | 
+| ------------------- | ------------------- | ------------------- |
+| FER | Project | [Facial Expression Recognition](https://github.com/gianmillare/Facial-Expression-Recognition) |
+
+<hr>
 
 ### Hands-On Machine Learning with Scikit-Learn, Keras, & TensorFlow
 | Chapter  | Title | 
