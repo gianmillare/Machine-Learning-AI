@@ -56,6 +56,7 @@
 | Session | Category  | Title | 
 | ------------------- | ------------------- | ------------------- |
 | FER | Project | [Facial Expression Recognition](https://github.com/gianmillare/Facial-Expression-Recognition) |
+| NLP | Project | [NLP - Sentiment Analysis](https://github.com/gianmillare/NLP-Sentiment-Analysis-Guide) |
 
 <hr>
 
