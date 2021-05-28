@@ -55,8 +55,9 @@
 ### Guided Projects
 | Session | Category  | Title | 
 | ------------------- | ------------------- | ------------------- |
-| FER | Project | [Facial Expression Recognition](https://github.com/gianmillare/Facial-Expression-Recognition) |
-| NLP | Project | [NLP - Sentiment Analysis](https://github.com/gianmillare/NLP-Sentiment-Analysis-Guide) |
+| FER | Guided Project | [Facial Expression Recognition](https://github.com/gianmillare/Facial-Expression-Recognition) |
+| NLP | Guided Project | [NLP - Sentiment Analysis](https://github.com/gianmillare/NLP-Sentiment-Analysis-Guide) |
+| ICT | Guided Project | [Image Classification with Tensorflow](https://github.com/gianmillare/Image-Classification-with-Tensorflow-Guide) |
 
 <hr>
 
