@@ -58,6 +58,7 @@
 | FER | Guided Project | [Facial Expression Recognition](https://github.com/gianmillare/Facial-Expression-Recognition) |
 | NLP | Guided Project | [NLP - Sentiment Analysis](https://github.com/gianmillare/NLP-Sentiment-Analysis-Guide) |
 | ICT | Guided Project | [Image Classification with Tensorflow](https://github.com/gianmillare/Image-Classification-with-Tensorflow-Guide) |
+| DML | Guided Project | [Deploy Models with TensorFlow Serving and Flask](https://github.com/gianmillare/ML-Classification-Web-Application-Guide) |
 
 <hr>
 
