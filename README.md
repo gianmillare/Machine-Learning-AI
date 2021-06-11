@@ -59,6 +59,7 @@
 | NLP | Guided Project | [NLP - Sentiment Analysis](https://github.com/gianmillare/NLP-Sentiment-Analysis-Guide) |
 | ICT | Guided Project | [Image Classification with Tensorflow](https://github.com/gianmillare/Image-Classification-with-Tensorflow-Guide) |
 | DML | Guided Project | [Deploy Models with TensorFlow Serving and Flask](https://github.com/gianmillare/ML-Classification-Web-Application-Guide) |
+| DSS | Guided Project | [Data Science Web App with Streamlit and Python](https://github.com/gianmillare/Data-Science-Web-App-Guide) |
 
 <hr>
 
